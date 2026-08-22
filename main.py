@@ -47,7 +47,7 @@ bus_config = {}
 DEFAULT_CONFIG = {
     "driver_name": "Alok Raj",
     "bus_number": "—",
-    "bus_type": "Standard",
+    "bus_type": "M Standard",
     "route_name": "Unassigned route",
     "origin": "—",
     "destination": "—",
